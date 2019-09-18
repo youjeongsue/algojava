@@ -32,6 +32,7 @@ public class p_1204{
             System.out.printf("#%d %d", i+1, result[i]);
             System.out.println();
         }
+        print("Hello world");
 
         sc.close();
     }
